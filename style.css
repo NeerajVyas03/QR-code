@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    font-family: 'Outfit',
+    sans-serif;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    margin: 100px auto 100px;
+    width: 20%;
+    border-radius: 20px;
+}
+
+.QR{
+  width: 90%; 
+  border-radius: 15px;
+  margin-top: 15px;
+}
+
+.p2{
+    font-size: 15px;
+    font-weight: 400;
+    width: 80%;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 35px;
+}
+
+.p1{
+    font-weight: 700;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
